@@ -11,6 +11,8 @@ There are five people with 10 images each in this dataset, 50 images in total:
 4. Queen of the UK - Elizabeth II
 5. Myself - Teresa
 These images are either downloaded from Google or provided by myself.
+
+
 Class labels: 'Ennie'-1, 'Jimmy'-2, 'Biden'-3, 'Elizabeth'-4, 'Teresa'-5
 
 After processing images, the inputs for model LeNet would be 64*64 pixels.
@@ -42,17 +44,17 @@ Approaches
   4. Additional dataset testing
 
 ## 5. Python files
-- ImagePreprocessing_LeNet
+- [ImagePreprocessing_LeNet](https://github.com/eatingyeh/Face-Recognition-with-LeNet-and-VGG16/blob/main/ImageProcessing_LeNet.ipynb)
   This is for loading, processing and saving images for later use in model LeNet.
-- ImagePreprocessing_VGG
+- [ImagePreprocessing_VGG](https://github.com/eatingyeh/Face-Recognition-with-LeNet-and-VGG16/blob/main/ImageProcessing_VGG.ipynb)
   This is for loading, processing and saving images for later use in model VGG16.
-- LeNet
+- [LeNet](https://github.com/eatingyeh/Face-Recognition-with-LeNet-and-VGG16/blob/main/LeNet.ipynb)
   This is for training model LeNet.
-- VGG16
+- [VGG16](https://github.com/eatingyeh/Face-Recognition-with-LeNet-and-VGG16/blob/main/VGG16.ipynb)
   This is for training model VGG16.
-- Additional dataset testing_LeNet
+- [Additional dataset testing_LeNet](https://github.com/eatingyeh/Face-Recognition-with-LeNet-and-VGG16/blob/main/Additional%20dataset%20testing_LeNet.ipynb)
   This is for testing the performance of the best model of LeNet model using a brand new dataset.
-- Additional dataset testing_VGG16
+- [Additional dataset testing_VGG16](https://github.com/eatingyeh/Face-Recognition-with-LeNet-and-VGG16/blob/main/Additional%20dataset%20testing_VGG16.ipynb)
   This is for testing the performance of the best model of VGG16 model using a brand new dataset.
 
 
